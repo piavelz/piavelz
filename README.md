@@ -67,6 +67,21 @@
 
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piavelz&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <img align = "right" height="200px" src="https://github-readme-stats.vercel.app/api?username=piavelz&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<h2></h2>
+<p align="center">✨Connect with me! ✨</p>
 
+<a href="https://www.linkedin.com/in/piavelasquezg/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a> ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)<a/>
 
