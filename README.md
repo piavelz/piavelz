@@ -83,10 +83,10 @@
 <a href="https://www.linkedin.com/in/piavelasquezg/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a> ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)<a/>
-
-</div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="100px" />
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="80px" />
 </div>
 
 
