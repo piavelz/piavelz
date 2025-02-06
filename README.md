@@ -63,7 +63,7 @@
 <h2>My Github Stats</h2>
 
 <img align="left" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piavelz&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<img align = "right" height="200px" src="https://github-readme-stats.vercel.app/api?username=piavelz&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align = "right" width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=piavelz&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
 <br>
