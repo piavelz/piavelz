@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-<img width="20%"  align="right" alt="Github" src="https://res.cloudinary.com/dnvpep1sn/image/upload/v1738786180/24ea6371-0e02-46e4-a5b9-e51a0fae3e82_d9upka.webp" />
+<img width="20%"  align="right" alt="Github" src="https://res.cloudinary.com/dnvpep1sn/image/upload/v1738810073/hduxbesynbcn9khlo5e4.webp" />
 
   - 🔭 I’m currently looking for a job.
   
