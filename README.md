@@ -1,17 +1,8 @@
 <h2> Hi, I'm Pía Velásquez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
 
 <img width="30%"  align="right"  alt="icon" src="https://res.cloudinary.com/dnvpep1sn/image/upload/v1738810073/hduxbesynbcn9khlo5e4.webp" />
 
-  - 🔭 I’m currently looking for a job.
-  
-- 🌱 I’m currently learning Next.js
-  
-- 💬 Ask me about Sql,PHP, JavaScript and React.
-  
-- ⚡ Fun fact: i'm the crazy cat lady 🐈‍⬛
 
 
 <br>
